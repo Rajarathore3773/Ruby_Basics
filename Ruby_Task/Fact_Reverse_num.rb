@@ -17,6 +17,7 @@ def facto(n)
       count +=1
     end
    
+   #reverse ke liye logic
      rem = n % 10
      
      rev = rev * 10+ rem  #3
